@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/bin/Debug/net7.0/areaTriangulo
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/bin/Debug/net7.0/areaTriangulo.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/bin/Debug/net7.0/areaTriangulo.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/bin/Debug/net7.0/areaTriangulo.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/bin/Debug/net7.0/areaTriangulo.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/refint/areaTriangulo.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/areaTriangulo.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/areaTriangulo/areaTriangulo/areaTriangulo/obj/Debug/net7.0/ref/areaTriangulo.dll
